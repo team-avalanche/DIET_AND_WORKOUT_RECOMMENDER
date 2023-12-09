@@ -7,7 +7,7 @@ import re
 
 import os
 import re
-os.environ['OPENAI_API_KEY'] = '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' # your openai key
+os.environ['OPENAI_API_KEY'] = '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'
 
 
 
